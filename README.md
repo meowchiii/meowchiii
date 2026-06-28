@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-<img src="https://github.com/meowchiii/meowchiii/blob/4ee018bc91b447cc4461789e4d38464f7373ae5a/retro%20icon.webp" width=400 />
+<img src="https://github.com/meowchiii/meowchiii/blob/4ee018bc91b447cc4461789e4d38464f7373ae5a/retro%20icon.webp" width=360 />
 </p>
 
 <p align="center">
@@ -25,16 +25,16 @@ ${\color{#F3D1BC}\text{DrRETR0 familial yume . dnc nor take inspo strictly}}$
     <img src="https://github.com/meowchiii/meowchiii/blob/4ee018bc91b447cc4461789e4d38464f7373ae5a/at%20retro.webp" width="150"/>
   </a>⠀⠀⠀⠀
 <a href="https://evawuffz.straw.page/">
-    <img src="https://github.com/meowchiii/meowchiii/blob/4ee018bc91b447cc4461789e4d38464f7373ae5a/straw%20retro.webp" width="150"/>
+    <img src="https://github.com/meowchiii/meowchiii/blob/4ee018bc91b447cc4461789e4d38464f7373ae5a/straw%20retro.webp" width="140"/>
   </a>ㅤㅤ⠀
   <a href="https://guns.lol/meowzus">
-    <img src="https://github.com/meowchiii/meowchiii/blob/4ee018bc91b447cc4461789e4d38464f7373ae5a/guns%20retro.webp" width="150"/>
+    <img src="https://github.com/meowchiii/meowchiii/blob/4ee018bc91b447cc4461789e4d38464f7373ae5a/guns%20retro.webp" width="140"/>
   </a>
 </p>
 
 </p>
 <p align="center">
 <sub>
-<img src="https://github.com/prestonwillard/prestonwillard/blob/40cd0b354df876e9dce8b2bde3d1e66e22fdbb93/ezgif-3a8b939c17d8f4ef.gif" width="150" />
+<img src="https://github.com/prestonwillard/prestonwillard/blob/40cd0b354df876e9dce8b2bde3d1e66e22fdbb93/ezgif-3a8b939c17d8f4ef.gif" width="140" />
 </p>
 </sub>
